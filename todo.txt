@@ -1,0 +1,8 @@
+Future Work:
+
+Player OOP
+if possible window banaune, command line bhanda
+player choice of boxes
+
+sequence:
+Draw: 042175368
